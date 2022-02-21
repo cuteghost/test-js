@@ -6,3 +6,4 @@ function first(){
 function second(){
     alert("radi dvica");
   }
+  
